@@ -27,7 +27,7 @@ Plug-ins/library/tutorials, do they exist? (Pascale)
   http://paperjs.org/
   fabric.js
   https://www.youtube.com/watch?v=mRDo-QXVUv8
-  Jamo korean? (writing possible?) (Pascale & Katrin)
+Jamo korean? (writing possible?) (Pascale & Katrin)
   https://devblogs.microsoft.com/oldnewthing/20201009-00/?p=104351
   Very much possible : Korean writing apps, UTF-Codes etc…
 Recherche about history of hangul (Katrin)
